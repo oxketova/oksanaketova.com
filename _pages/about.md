@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+description: I have passion for art, architecture and design. I have always painted through my life.
+As a self-thought artist, I worked these years evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surround me.
 permalink: /about/
 image: '/images/about-photo.jpg'
 image_caption: ''
