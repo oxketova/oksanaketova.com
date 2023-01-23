@@ -25,8 +25,8 @@ menu__settings:
 # Author Settings
 author:
   author__name: Oksana Ketova
-  author__bio: Hi, I'm Oksana – Artist. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: "/images/01.jpg"
+  author__bio: Hi, I'm Oksana and i'm an artist. I have passion for art, architecture and design.
+  author__avatar: "/images/pictures-of-me.jpg"
 
 social:
   - { icon: "ion-logo-facebook", link: "https://facebook.com/oxketova" }
@@ -40,8 +40,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: I'm an Artist
-  hero__description: I have passion for art, architecture and design. I love painting and drawing. it’s always a pleasure for me to create new images in oil colors or digital art.<br/>As a self-thought artist, I'm working on evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surround me.<br/>Here you can see my art and also read short artstory in my blog.
+  hero__title: I'm Oksana
+  hero__description: and I'm an artist.<br/>I have passion for art, architecture and design. it’s always a pleasure for me to create new images in oil colors or digital art.<br/><br/>Here you can see my art and also read short artstory in my blog.
   hero__image: "/images/oksana_home.png"
 
 #-------------------------------
@@ -164,7 +164,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: "/images/footer.jpg"
 
 #-------------------------------
 # Contact Settings
