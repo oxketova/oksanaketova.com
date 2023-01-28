@@ -2,11 +2,12 @@
 layout: page
 title: About
 description: I have passion for art, architecture and design. I have always painted through my life.
-As a self-thought artist, I worked these years evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surround me.
 permalink: /about/
 image: '/images/about-photo.jpg'
-image_caption: ''
+image_caption: 'Me'
 ---
+
+As a self-thought artist, I worked these years evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surround me.
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
 

@@ -2,7 +2,7 @@
 #-------------------------------
 # Site Settings
 title: Oksana Ketova
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: /images/logo_small-2.png # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio by Oksana
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -88,7 +88,7 @@ mailchimp:
 work:
   enable: true
   work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__description:  My art is my reflection and vision of the world that you can see here
 
 #-------------------------------
 # Testimonials Section

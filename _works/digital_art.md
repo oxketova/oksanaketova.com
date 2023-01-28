@@ -1,6 +1,6 @@
 ---
 title: Digital art
-description: Digital drawings.
+description: digital drawings
 category: drawings
 image: '/images/work-digital-main.jpg'
 image_caption: ''
