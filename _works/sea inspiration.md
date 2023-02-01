@@ -6,30 +6,39 @@ image: '/images/work-oyster-main.jpg'
 image_caption: 'Blue Oyster'
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. 
+Paintings with oysters are my attempt to reflect the inner world of emotions and feelings through a “closed object”.  How often do we become their hostages?! 
+Inside each oyster there is the main jewel - a pearl, in my paintings it is an eye through which the door to the inner world of a person opens.
+
+What do you see in the yellow oyster?  love, sadness, hope? 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
+    <img src="/images/work-yellowoyster-2.jpg" loading="lazy" alt="Oyster">
+  </div>
+  <em>Yellow oyster, oil on linen canvas, 100x81cm</em>
+</div>
+
+> Shakespeare said "The world is mine oyster". 
+
+Do you see surprise, fear or scream in the blue oyster?
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/IMG_2593.jpg" loading="lazy" alt="Blue Oyster">
-    <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
+    <img src="/images/work-blueoyster-2.jpg" loading="lazy" alt="Oyster">
   </div>
+  <em>Blue oyster, oil on linen canvas, 100x80cm</em>
 </div>
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. 
+The image of a fish for me is always a reference to biblical stories.  in the Christian religion, fish is associated with man.  Triptych "Fish" about a man, about his past, present and future.  
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/IMG_2593.jpg" loading="lazy" alt="Blue Oyster">
-    <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
+    <img src="/images/work-fish.jpg" loading="lazy" alt="Fish tryptic">
   </div>
+  <em>Fish, acrylic on cotton canvas, 100x150cm</em>
 </div>
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. 
+The tail is the past, always figuratively, symbolically in the memory of a person.  The present is today, what is and what is not without past and future.  The head is the future, perhaps beautiful with many details, or disturbing...
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/work-fish.png" loading="lazy" alt="Fish tryptic">
-  </div>
-</div>

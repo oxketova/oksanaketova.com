@@ -6,13 +6,14 @@ image: '/images/work-stilllife-main.jpg'
 image_caption: ''
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable.
+Still life for me is a way to pay attention and admire simple objects that in ordinary life go unnoticed. 
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/work-granate-1.jpg" loading="lazy" alt="Project">
     <img src="/images/work-granate-2.jpg" loading="lazy" alt="Project">
   </div>
+  <em>Pomegranates. Oil on linen canvas, 23x27cm</em>
 </div>
 
 <div class="gallery-box">
@@ -21,6 +22,7 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
     <img src="/images/work-lemon-1.jpg" loading="lazy" alt="Project">
     <img src="/images/work-lemon-3.jpg" loading="lazy" alt="Project">
   </div>
+  <em>Lemons. Oil on paper, 14x19cm</em>
 </div>
 
 <div class="gallery-box">
@@ -28,18 +30,17 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
     <img src="/images/work-peaches-1.jpg" loading="lazy" alt="Project">
     <img src="/images/work-peaches-2.jpg" loading="lazy" alt="Project">
   </div>
+  <em>Peaches. Oil on linen canvas, 23x27cm</em>
 </div>
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Hymnals are books with collections of musical hymns that can typically be found in churches. 
-
+A picture of a pomegranate or an oyster is not only a copy of reality, but an image that fills you with emotions. For these emotions, I paint simple still lifes.
+  
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/work-shrimp-2.jpg" loading="lazy" alt="Project">
     <img src="/images/work-shrimp-1.jpg" loading="lazy" alt="Project">
     <img src="/images/work-shrimp-3.jpg" loading="lazy" alt="Project">
   </div>
+  <em>Oil on paper, 14x19cm</em>
 </div>
 
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. 
