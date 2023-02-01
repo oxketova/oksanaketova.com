@@ -1,16 +1,18 @@
 ---
 layout: default
 title: Writing
-description: I independently study the history of art and architecture, read biographies of artists, watch movies and listen to lectures and share it on my blog.
+description: I enjoy studying the history of art and architecture, as self-thaught, reading biographies of artists,
+watching movies, listening to lectures and sharing my thoughts about these subjects here on my blog.
 ---
 
 <div class="container">
   <div class="page-section-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.blog__settings.blog__title }}{% endif %}</h1>
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.blog__settings.blog__title
+      }}{% endif %}</h1>
     {% if page.description %}
-      <p class="page-description">{{ page.description }}</p>
+    <p class="page-description">{{ page.description }}</p>
     {% else site.data.settings.blog__settings.blog__description %}
-      <p class="page-description">{{ site.data.settings.blog__settings.blog__description }}</p>
+    <p class="page-description">{{ site.data.settings.blog__settings.blog__description }}</p>
     {% endif %}
   </div>
 </div>
@@ -21,9 +23,9 @@ description: I independently study the history of art and architecture, read bio
       <div class="section-small">
         <div class="section__inner grid">
           {% if site.posts.size > 0 %}
-            {% for post in paginator.posts offset:0 %}
-              {% include article.html %}
-            {% endfor %}
+          {% for post in paginator.posts offset:0 %}
+          {% include article.html %}
+          {% endfor %}
           {% endif %}
         </div>
       </div>

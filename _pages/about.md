@@ -7,12 +7,13 @@ image: '/images/about-photo.jpg'
 image_caption: 'Me'
 ---
 
-As a self-thought artist, I worked these years evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surround me.
+As a self-taught artist, I worked through these years evolving my style, reflecting on my feelings, the world’s context and the everyday’s beauty that surrounds me.
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
 
 There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
 
+<!--
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/100.jpg" loading="lazy">
@@ -21,6 +22,7 @@ There are several other types of books which are not commonly found under this s
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
+-->
 
 Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
 
