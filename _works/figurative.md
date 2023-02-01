@@ -6,30 +6,36 @@ image: '/images/work-figurative-main.jpg'
 image_caption: ''
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. 
+There will be a series of paintings with women in which I want to free food from ordinary perception, give them a different, deeper meaning.
+ 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/work-eggs.jpg" loading="lazy" alt="Strong woman">
+    <img src="/images/work-eggs-2.jpg" loading="lazy" alt="Strong woman">
+  </div>
+  <em>Strong woman. Oil on linen canvas, 100x81cm</em>
+</div>
+
+Strong woman with eggs, where eggs are a symbol of the masculine. Today women often compete with men on equal terms, take on male roles, and i think for many of them this is the path to exhaustion
+
+> Free the real things from the ordinary
+
+Dreaming about Dali. I was inspired to create this painting by the work of Salvador Dali.  For him, the lobster was a symbol of sexuality and masculinity.  In 1939, he organized the show "The Dream of Venus", in which the naked bodies of girls were covered only by lobsters.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-eggs.jpg" loading="lazy" alt="Project">
-    <img src="/images/work-eggs-2.jpg" loading="lazy" alt="Project">
+    <img src="/images/work-dreaming.jpg" loading="lazy" alt="Dreaming about Dali">
+    <img src="/images/work-dreaming-2.jpg" loading="lazy" alt="Dreaming about Dali">
   </div>
-  </div>
+  <em>Dreaming about Dali. Oil on linen canvas, 100x81cm</em>
+</div>
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, .
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Hymnals are books with collections of musical hymns that can typically be found in churches. 
+Series of paintings with dancing people about emotions 
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/work-dance-1.jpg" loading="lazy" alt="Project">
     <img src="/images/work-dance-2.jpg" loading="lazy" alt="Project">
     <img src="/images/work-dance-3.jpg" loading="lazy" alt="Project">
+ </div>
 </div>
-</div>
-
-
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to.
-
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.

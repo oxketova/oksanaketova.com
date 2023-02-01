@@ -5,108 +5,46 @@
         <description>Creative Portfolio by Oksana</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Feb 2023 09:32:39 +0100</pubDate>
-        <lastBuildDate>Wed, 01 Feb 2023 09:32:39 +0100</lastBuildDate>
+        <pubDate>Wed, 01 Feb 2023 09:37:38 +0100</pubDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:37:38 +0100</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
-                <title>A journey of a thousand leagues begins beneath one’s feet</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
+                <title>Art of shocking fashion</title>
+                <description>&lt;p&gt;Fashion became part of art thanks to Elsa. She created fashion inspired by the art of surrealism and dadaism.  Her work was revolutionary from shocking pink, her signature color, to dresses created from fantastic ideas by artists such as Salvador Dali, Miro, Giacometti.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
+  &lt;p&gt;Before me, everything was black or navy blue or gray or brown or beige, things like that, for daytime. I began using shocking pink and ice blue and all kinds of bright colors. Elsa Schiaparelli&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
+&lt;p&gt;In the rococo period light pink were popular in art and fashion as a color of frivolity and coquetry. Into 19th century pink was a more masculine color for boys.
+only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink but bright, saturated and daring.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
+    &lt;img src=&quot;/images/blog/schiaparelli-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;schiaparelli&quot; /&gt;
   &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
 &lt;/div&gt;
 
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
+&lt;p&gt;Elsa Schiaparelli, collaborated with Dalí during the 1930s and 40’s. Together they created perhaps  the first art fashion, clothes and accessories based on surreal drawings by Salvador Dali.  The most famous are the “tear dress” the “skeleton dress” and the “lobster dress”.&lt;/p&gt;
 
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/blog/schiaparelli-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Dresses&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
+&lt;p&gt;Elsa created a rebellious fashion, her clothes and accessories became art.&lt;/p&gt;
 </description>
-                <pubDate>Sun, 09 Oct 2022 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%C3%B4%C3%A7%C3%B6s-feet</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/a-journey-of-a-thousand-leagues-begins-beneath-one%C3%B4%C3%A7%C3%B6s-feet</guid>
+                <pubDate>Sun, 29 Jan 2023 13:01:35 +0100</pubDate>
+                <link>http://localhost:4000/blog/art-of-shocking-fashion</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/art-of-shocking-fashion</guid>
                 
-                <category>travel</category>
+                <category>artstory</category>
                 
-                <category>story</category>
+                <category>color</category>
                 
-                <category>rest</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Life shrinks or expands in proportion to one’s courage</title>
-                <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;
-
-&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-1.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-2.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-    &lt;img src=&quot;/images/post-1-3.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Table&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Gallery / &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Publishers may produce low-cost, pre-publication copies known as galleys or ‘bound proofs’ for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.&lt;/p&gt;
-
-&lt;p&gt;Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.&lt;/p&gt;
-
-&lt;div class=&quot;gallery-box&quot;&gt;
-  &lt;div class=&quot;gallery&quot;&gt;
-    &lt;img src=&quot;/images/post-1-4.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Books&quot; /&gt;
-  &lt;/div&gt;
-  &lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/_awzRovsBDU&quot; target=&quot;_blank&quot;&gt;NMG Network&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In recent years, the book had a second life in the form of reading aloud. This is called public readings of published works, with the assistance of professional readers (often known actors) and in close collaboration with writers, publishers, booksellers, librarians, leaders of the literary world and artists.&lt;/p&gt;
-
-&lt;p&gt;This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.&lt;/p&gt;
-
-&lt;p&gt;Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 08 Oct 2022 14:01:35 +0200</pubDate>
-                <link>http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%C3%B4%C3%A7%C3%B6s-courage</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/life-shrinks-or-expands-in-proportion-to-one%C3%B4%C3%A7%C3%B6s-courage</guid>
-                
-                <category>notes</category>
-                
-                <category>technology</category>
-                
-                <category>lifestyle</category>
+                <category>art</category>
                 
                 
             </item>
