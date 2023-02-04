@@ -28,3 +28,9 @@ My digital drawings are inspired by the ornaments of different people of the wor
 >I am trying to unite two worlds and two eras in these drawings.
 
 The tradition of wigs of the _Baroque_ period and the ethnic motifs of the peoples of the world.
+
+---
+
+# Shop
+
+You can buy these digital prints at [InPrnt](https://www.inprnt.com/gallery/oxketova/)
