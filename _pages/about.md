@@ -18,3 +18,4 @@ As a self-taught artist, I worked through these years evolving my style, reflect
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
+-->

@@ -6,7 +6,7 @@ image: '/images/work-figurative-main.jpg'
 image_caption: ''
 ---
 
-There will be a series of paintings with women in which I want to free food from ordinary perception, give them a different, deeper meaning.
+There will be a series of paintings with women in which I want to free food from ordinary perception, give it a different, deeper meaning.
  
 <div class="gallery-box">
   <div class="gallery">
@@ -16,21 +16,21 @@ There will be a series of paintings with women in which I want to free food from
   <em>Strong woman. Oil on linen canvas, 100x81cm</em>
 </div>
 
-Strong woman with eggs, where eggs are a symbol of the masculine. Today women often compete with men on equal terms, take on male roles, and i think for many of them this is the path to exhaustion
+**Strong woman with eggs**, where eggs are a symbol of the masculinity. Today women often compete with men on equal terms, take on male roles, and I think for many of them this is the path to exhaustion.
 
 > Free the real things from the ordinary
 
-Dreaming about Dali. I was inspired to create this painting by the work of Salvador Dali.  For him, the lobster was a symbol of sexuality and masculinity.  In 1939, he organized the show "The Dream of Venus", in which the naked bodies of girls were covered only by lobsters.
+**Dreaming about Dalí**. I was inspired to create this painting by the work of Salvador Dalí: for him, the lobster was a symbol of sexuality and masculinity. In 1939, he organized the show _The Dream of Venus_, in which the naked bodies of girls were covered only by lobsters.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/work-dreaming.jpg" loading="lazy" alt="Dreaming about Dali">
     <img src="/images/work-dreaming-2.jpg" loading="lazy" alt="Dreaming about Dali">
   </div>
-  <em>Dreaming about Dali. Oil on linen canvas, 100x81cm</em>
+  <em>Dreaming about Dalí. Oil on linen canvas, 100x81cm</em>
 </div>
 
-Series of paintings with dancing people about emotions 
+**Series of paintings with dancing people about emotions**.
 
 <div class="gallery-box">
   <div class="gallery">

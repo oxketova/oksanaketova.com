@@ -6,7 +6,7 @@ image: '/images/work-stilllife-main.jpg'
 image_caption: ''
 ---
 
-Still life for me is a way to pay attention and admire simple objects that in ordinary life go unnoticed. 
+Painting still life for me is a way to pay attention and admire simple objects that in ordinary life go unnoticed.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -33,7 +33,7 @@ Still life for me is a way to pay attention and admire simple objects that in or
   <em>Peaches. Oil on linen canvas, 23x27cm</em>
 </div>
 
-A picture of a pomegranate or an oyster is not only a copy of reality, but an image that fills you with emotions. For these emotions, I paint simple still lifes.
+A picture of a pomegranate or an oyster is not only a copy of reality, but an image that fills you with emotions. For these emotions, I paint simple still lives.
   
 <div class="gallery-box">
   <div class="gallery">
@@ -43,4 +43,3 @@ A picture of a pomegranate or an oyster is not only a copy of reality, but an im
   </div>
   <em>Oil on paper, 14x19cm</em>
 </div>
-

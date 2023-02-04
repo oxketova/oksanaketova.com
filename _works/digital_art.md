@@ -6,7 +6,7 @@ image: '/images/work-digital-main.jpg'
 image_caption: ''
 ---
 
-Digital drawings are inspired by the ornaments of different peoples of the world, patterns of floral elements of the Art Nouveau era.  the ornament was one of the first ways of knowing the world for a person through art, an element of a magical ritual, fragments of history, nature, and traditions are included in the patterns. 
+My digital drawings are inspired by the ornaments of different people of the world and patterns of floral elements of the _Art Nouveau_ era. The ornament was one of the first ways of knowing the world for a person through art, an element of a magical ritual, fragments of history, nature, and traditions are included in the patterns.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +25,6 @@ Digital drawings are inspired by the ornaments of different peoples of the world
   <em>To order these drawings here / <a href="https://www.inprnt.com/gallery/oxketova/" target="_blank">inprnt</a></em>
 </div>
 
->I am trying to unite two worlds, two eras in these drawings.
+>I am trying to unite two worlds and two eras in these drawings.
 
-The tradition of wigs of the Baroque period and the ethnic motifs of the peoples of the world.
+The tradition of wigs of the _Baroque_ period and the ethnic motifs of the peoples of the world.

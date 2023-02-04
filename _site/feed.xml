@@ -5,19 +5,19 @@
         <description>Creative Portfolio by Oksana</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Feb 2023 09:37:38 +0100</pubDate>
-        <lastBuildDate>Wed, 01 Feb 2023 09:37:38 +0100</lastBuildDate>
+        <pubDate>Sat, 04 Feb 2023 10:58:03 +0100</pubDate>
+        <lastBuildDate>Sat, 04 Feb 2023 10:58:03 +0100</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
                 <title>Art of shocking fashion</title>
-                <description>&lt;p&gt;Fashion became part of art thanks to Elsa. She created fashion inspired by the art of surrealism and dadaism.  Her work was revolutionary from shocking pink, her signature color, to dresses created from fantastic ideas by artists such as Salvador Dali, Miro, Giacometti.&lt;/p&gt;
+                <description>&lt;p&gt;Fashion became part of art thanks to Elsa: she created fashion inspired by the art of surrealism and dadaism. Her work was revolutionary from &lt;em&gt;shocking pink&lt;/em&gt;, her signature color, to dresses created from fantastic ideas by artists such as Salvador Dali, Miro, Giacometti.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Before me, everything was black or navy blue or gray or brown or beige, things like that, for daytime. I began using shocking pink and ice blue and all kinds of bright colors. Elsa Schiaparelli&lt;/p&gt;
+  &lt;p&gt;Before me, everything was black or navy blue or gray or brown or beige, things like that, for daytime. I began using shocking pink and ice blue and all kinds of bright colors. - &lt;em&gt;Elsa Schiaparelli&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In the rococo period light pink were popular in art and fashion as a color of frivolity and coquetry. Into 19th century pink was a more masculine color for boys.
+&lt;p&gt;In the &lt;em&gt;rococo&lt;/em&gt; period light pink were popular in art and fashion as a color of frivolity and coquetry. Into 19th century pink was a more masculine color for boys.
 only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink but bright, saturated and daring.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
@@ -26,7 +26,7 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Elsa Schiaparelli, collaborated with Dalí during the 1930s and 40’s. Together they created perhaps  the first art fashion, clothes and accessories based on surreal drawings by Salvador Dali.  The most famous are the “tear dress” the “skeleton dress” and the “lobster dress”.&lt;/p&gt;
+&lt;p&gt;Elsa Schiaparelli, collaborated with Salvador Dalí during the 1930s and 40’s: together they created perhaps  the first art fashion, clothes and accessories based on surreal drawings by Dalí. The most famous are the &lt;em&gt;tear dress&lt;/em&gt;, the &lt;em&gt;skeleton dress&lt;/em&gt; and the &lt;em&gt;lobster dress&lt;/em&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;
@@ -51,7 +51,7 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
         
             <item>
                 <title>Ancient Greek art and architecture</title>
-                <description>&lt;p&gt;The history of Ancient Greece has several periods. The main heyday fell on the archaic and classical eras.  In the archaic era, art developed under the influence of ancient Egypt, but was focused on perfection and harmony of the human body.  In the classical era, Greeks improved sculpture, developing the ideal proportions of the human body.&lt;/p&gt;
+                <description>&lt;p&gt;The history of Ancient Greece has several periods. The main heyday fell on the &lt;em&gt;archaic&lt;/em&gt; and &lt;em&gt;classical&lt;/em&gt; eras. In the archaic era, art developed under the influence of ancient Egypt, but was focused on perfection and harmony of the human body. In the classical era, Greeks improved sculpture, developing the ideal proportions of the human body.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The art and architecture of ancient Greece became the foundation and inspiration for the entire western world.&lt;/p&gt;
@@ -64,8 +64,7 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Greek architecture followed a highly structured system of proportions that related individual architectural components to the whole building. As a result, three styles or orders that determined the shape and decoration of the columns were invented: Doric (masculine) had no base. Ionic (feminine) had a base and a capital in the form of curls - volute. Corinthian had a base and a capital in the form of acanthus leaves. The orders developed one after the other one.&lt;/p&gt;
-
+&lt;p&gt;Greek architecture followed a highly structured system of proportions that related individual architectural components to the whole building. As a result, three styles or orders that determined the shape and decoration of the columns were invented: &lt;em&gt;Doric&lt;/em&gt; (masculine) had no base; &lt;em&gt;Ionic&lt;/em&gt; (feminine) had a base and a capital in the form of curls - volute; &lt;em&gt;Corinthian&lt;/em&gt; had a base and a capital in the form of acanthus leaves. The orders developed one after the other one.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 16 Dec 2021 16:05:55 +0100</pubDate>
                 <link>http://localhost:4000/blog/ancient-greece-art-and-architecture</link>
@@ -81,7 +80,7 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
             </item>
         
             <item>
-                <title>art and architecture of Ancient Egypt</title>
+                <title>Art and architecture of Ancient Egypt</title>
                 <description>&lt;p&gt;The art of ancient Egypt was oriented to the afterlife and was subject to strict rules. The sculpture is static, like a column, but always with its leg extended forward. Painting was about stories of life. The figures of people were drawn from the most favorable, recognizable angles. The size of the figures communicated social status…&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -96,7 +95,8 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;All buildings were very majestic, this to emphasize the insignificance of men before the gods. The history of ancient Egypt is divided into kingdoms: tombs were built during the old kingdom. The first tombs looked like dolmens and were called mastaba. These tombs evolved in the form of pyramids. During the new kingdom, the Egyptians began to build temples and the columns became the main architectural element.&lt;/p&gt;
+&lt;p&gt;All buildings were very majestic, this to emphasize the insignificance of men before the gods.
+The history of ancient Egypt is divided into kingdoms: tombs were built during the &lt;em&gt;old kingdom&lt;/em&gt;. The first tombs looked like dolmens and were called &lt;em&gt;mastaba&lt;/em&gt;: these tombs evolved in the form of pyramids. During the &lt;em&gt;new kingdom&lt;/em&gt;, the Egyptians began to build temples and the columns became the main architectural element.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 17 Nov 2021 13:01:35 +0100</pubDate>
                 <link>http://localhost:4000/blog/ancient-egypt-art-and-architecture</link>
@@ -118,9 +118,9 @@ only in 1937 Schiaparelli gave pink back to women, and it wasn’t a pastel pink
 &lt;/blockquote&gt;
 
 &lt;p&gt;Art and architecture of primitive people were based on religious rituals.
-In Art the person was actually not portrayed or portrayed symbolically, becose it did not matter for the magical effect on the image but, perhaps it worked in order to succeed in hunting.&lt;/p&gt;
+In paintings of this period the person was actually not portrayed or portrayed symbolically, because it did not matter for the magical effect, that was to succeed in hunting.&lt;/p&gt;
 
-&lt;p&gt;Small prehistoric figurines, known as Venus figurines, with enlarged breasts and bell, which may have been symbols of fertility, were made in different parts of the world.&lt;/p&gt;
+&lt;p&gt;Small prehistoric figurines, known as &lt;em&gt;Venus figurines&lt;/em&gt;, with enlarged breasts and belly, which may have been symbols of fertility, were made in different parts of the world.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;
@@ -130,7 +130,10 @@ In Art the person was actually not portrayed or portrayed symbolically, becose i
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Primitive architecture was a complex of constructions for living, celebrating rituals, or burial structures, such as menhirs and dolmens. A menhir, or standing stone, was a large man-made upright stone, whose size can be different, but often taper towards the top. A dolmen was a type of olden burial and cult structure, usually made of two or more vertical stones supporting a large flat horizontal stone that looked like a “table”.&lt;/p&gt;
+&lt;p&gt;Primitive architecture was a complex of constructions for living, celebrating rituals, or burial structures, such as &lt;em&gt;menhirs&lt;/em&gt; and &lt;em&gt;dolmens&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;menhir&lt;/strong&gt;, or standing stone, was a large man-made upright stone, whose size could be different, but often taper towards the top.
+A &lt;strong&gt;dolmen&lt;/strong&gt; was instead a type of olden burial and cult structure, usually made of two or more vertical stones supporting a large flat horizontal stone that looked like a “table”.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 30 Oct 2021 14:01:35 +0200</pubDate>
                 <link>http://localhost:4000/blog/prehistoric-art-and-architecture</link>
