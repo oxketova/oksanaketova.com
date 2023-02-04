@@ -10,7 +10,7 @@ My digital drawings are inspired by the ornaments of different people of the wor
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-digital-4.jpg" loading="lazy" alt="blue demon">
+    <img src="/images/work-digital-4.JPG" loading="lazy" alt="blue demon">
     <img src="/images/work-digital-5.jpg" loading="lazy" alt="dreaming woman">
   </div>
 </div>
