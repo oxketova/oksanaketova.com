@@ -11,6 +11,8 @@ I was born in Russia, for a while I lived in Sicily, but now I live in Norway. I
 In my artistic practice I raise questions about the relationship between man and society through the prism of the body.
 I am inspired by the art of the Renaissance period, and I based my works on psychoanalysis and semiotics research, thus endowing the images and colors of ordinary objects with deep meaning.
 
+
+
 <!--
 <div class="gallery-box">
   <div class="gallery">

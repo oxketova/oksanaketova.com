@@ -29,13 +29,3 @@ There will be a series of paintings with women in which I want to free food from
   </div>
   <em>Dreaming about Dalí. Oil on linen canvas, 100x81cm</em>
 </div>
-
-**Series of paintings with dancing people about emotions**.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/work-dance-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/work-dance-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/work-dance-3.jpg" loading="lazy" alt="Project">
- </div>
-</div>
