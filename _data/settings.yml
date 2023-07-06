@@ -88,7 +88,7 @@ mailchimp:
 work:
   enable: true
   work__title: Work
-  work__description: My art is my reflection and vision of the world that you can see here
+  work__description:
 
 #-------------------------------
 # Testimonials Section

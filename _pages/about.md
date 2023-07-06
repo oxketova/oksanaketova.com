@@ -6,7 +6,7 @@ image: '/images/about-photo.jpg'
 image_caption: 'Me'
 ---
 
-Born 1987, Russia. live and work in Norway. 
+Born 1987, Russia. Live and work in Oslo, Norway. 
 
 While I possess a background in psychology, my recent years have been dedicated to honing my artistic practice, delving deeply into the realms of psychoanalysis, cultural myths, fairy tales, and dreams.
 
@@ -17,11 +17,11 @@ The ultimate aim of my artistic endeavors is to shed light upon the constraints 
 
 Group exhebitions
 
-2023 "Does size matter?" Female artists Oslo, Oslo, Norway
+2023 "Does size matter?" with Female artists Oslo, Norway
 
 Art auctions
 
-2023 Beyond Art Oslo, Oslo, Norway
+2023 at Beyond Art Oslo, Norway
 
 <!--
 <div class="gallery-box">
