@@ -8,7 +8,7 @@ image_caption: 'Me'
 
 Born 1987, Russia. Live and work in Oslo, Norway. 
 
-While I possess a background in psychology, my recent years have been dedicated to honing my artistic practice, delving deeply into the realms of psychoanalysis, cultural myths, fairy tales, and dreams.
+While I possess a background in psychology, my recent years have been dedicated to honing my artistic practice, in which I'm delving deeply into the realms of psychoanalysis, cultural myths, fairy tales, and dreams.
 
 As an immigrant, it remains paramount for me to engage with cultural identity, particularly the collective memory of the land I now call home. Myths and fairy tales offer profound insights into the psychological fabric of society at large.
 

@@ -41,7 +41,7 @@ social:
 hero:
   enable: true
   hero__title: I'm Oksana ...
-  hero__description: .. and I'm an artist.<br/><br/>I have passion for art, architecture and design. it’s always a pleasure for me to create new oil paintings or digital art.<br/><br/>Here you can see my art and also read short history of art in my blog.
+  hero__description: .. and I'm an artist.<br/><br/> I create art through the prism of psychoanalysis, myths and dreams.<br/><br/>Here you can see my oil paintings and also read short history of art in my blog.
   hero__image: "/images/oksana_home.png"
 
 #-------------------------------
