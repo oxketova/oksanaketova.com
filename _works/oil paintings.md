@@ -11,11 +11,9 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/mother.jpg" loading="lazy" alt="mother">
+    <p>Mother</p>
     <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
-  </div>  
-  <div class="gallery">
-    <em> Oil on canvas, 100x100cm</em>
-    <em> Oil on canvas, 100x100cm</em>
+    <p>Sisters</p>
   </div>
 </div>
 
