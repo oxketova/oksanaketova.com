@@ -1,5 +1,5 @@
 ---
-title: oil paintings
+title:
 description: 
 category: 
 image: '/images/work-oil-paintings-main.jpg'
@@ -10,13 +10,10 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
-  </div>
-  <em>Yellow Oyster, oil on linen canvas, 100x81cm</em>
-  <div class="gallery">
-    <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
-  </div>
-  <em>Yellow Oyster, oil on linen canvas, 100x81cm</em>
+    <img src="/images/mother.jpg" loading="lazy" alt="mother">
+    <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
+  <em> Oil on canvas, 100x100cm</em>
+  <em> Oil on canvas, 100x100cm</em>
 </div>
 
 > The world is mine oyster - _William Shakespeare_
