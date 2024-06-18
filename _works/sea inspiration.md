@@ -1,15 +1,12 @@
 ---
-title: Sea inspiration
-description: oil and acrylic paintings on canvas
-category: paintings
-image: '/images/work-oyster-main.jpg'
-image_caption: 'Blue Oyster'
+title: see more
+description: 
+category: 
+image: '/images/work-oil-paintings-main.jpg'
+image_caption: 
 ---
 
-Paintings with oysters are my attempt to reflect the inner world of emotions and feelings through a _closed object_. How often do we become their hostages?!
-Inside each oyster there is the main jewel - a pearl: in my paintings it is an eye through which the door to the inner world of a person opens up.
-
-What do you see in the **Yellow Oyster**? _Love_, _sadness_, _hope_?
+Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge visual metaphors through my paintings, with a particular focus on ornaments and patterns as symbolic motifs intertwined with ancient cultural themes and the art of the late 19th and early 20th centuries
 
 <div class="gallery-box">
   <div class="gallery">
@@ -31,7 +28,7 @@ Do you see surprise, fear or scream in the **Blue Oyster**?
   <em>Blue Oyster, oil on linen canvas, 100x80cm</em>
 </div>
 
-The image of a fish for me is always a reference to biblical stories: in the Christian religion, the fish is associated with man.
+
 
 The triptych **Fish** about a man, about his past, present and future.  
 
