@@ -1,5 +1,5 @@
 ---
-title: see more
+title: oil paintings
 description: 
 category: 
 image: '/images/work-oil-paintings-main.jpg'
@@ -13,6 +13,7 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
     <img src="/images/IMG_2508.jpg" loading="lazy" alt="Oyster">
     <img src="/images/work-yellowoyster-2.jpg" loading="lazy" alt="Oyster">
   </div>
+  <em>Yellow Oyster, oil on linen canvas, 100x81cm</em>
   <em>Yellow Oyster, oil on linen canvas, 100x81cm</em>
 </div>
 
