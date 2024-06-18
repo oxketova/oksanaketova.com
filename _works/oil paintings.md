@@ -12,9 +12,13 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
   <div class="gallery">
     <img src="/images/mother.jpg" loading="lazy" alt="mother">
     <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
-  <em> Oil on canvas, 100x100cm</em>
-  <em> Oil on canvas, 100x100cm</em>
+  </div>  
+  <div class="gallery">
+    <em> Oil on canvas, 100x100cm</em>
+    <em> Oil on canvas, 100x100cm</em>
+  </div>
 </div>
+
 
 > The world is mine oyster - _William Shakespeare_
 
