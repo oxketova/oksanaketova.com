@@ -1,7 +1,7 @@
 ---
 title:
 description: 
-category: 
+category: oil paintings on canvas
 image: '/images/work-oil-paintings-main.jpg'
 image_caption: 
 ---
@@ -11,34 +11,20 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/mother.jpg" loading="lazy" alt="mother">
-    <p>Mother</p>
     <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
-    <p>Sisters</p>
   </div>
+  <em>oil on canvas, 100x100cm</em>
 </div>
 
 
-> The world is mine oyster - _William Shakespeare_
-
-Do you see surprise, fear or scream in the **Blue Oyster**?
+> "There is in all things a pattern that is part of our universe..." - _Frank Herbert_
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/IMG_2593.jpg" loading="lazy" alt="Blue Oyster">
-    <img src="/images/work-blueoyster-2.jpg" loading="lazy" alt="Oyster">
+    <img src="/images/prince.jpg" loading="lazy" alt="prince">
+    <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
+    <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
+    <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
   </div>
-  <em>Blue Oyster, oil on linen canvas, 100x80cm</em>
 </div>
 
-
-
-The triptych **Fish** about a man, about his past, present and future.  
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/work-fish.jpg" loading="lazy" alt="Fish tryptic">
-  </div>
-  <em>Fish, acrylic on cotton canvas, 100x150cm</em>
-</div>
-
-The tail is the _past_, always figuratively, symbolically in the memory of a person. The _present_ is today, what is and what is not without past and future. The head is the _future_, perhaps beautiful with many details, or disturbing...
