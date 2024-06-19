@@ -2,7 +2,7 @@
 title:
 description: 
 category: oil paintings on canvas
-image: '/images/work-oil-paintings-main.jpg'
+image: '/images/work-oil-paintings-main2.jpg'
 image_caption: 
 ---
 
@@ -23,8 +23,15 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
   <div class="gallery">
     <img src="/images/prince.jpg" loading="lazy" alt="prince">
     <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
-    <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
     <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
   </div>
 </div>
+
+<div class="gallery-box">
+  <div class="gallery">
+     <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
+    <img src="/images/melusina.jpg" loading="lazy" alt="melusina">
+  </div>
+</div>
+
 
