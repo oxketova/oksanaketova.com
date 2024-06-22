@@ -6,7 +6,7 @@ image: '/images/work-digital-main.jpg'
 image_caption: ''
 ---
 
-My digital drawings are inspired by the ornaments of different people of the world and patterns of floral elements of the _Art Nouveau_ era. The ornament was one of the first ways of knowing the world for a person through art, an element of a magical ritual, fragments of history, nature, and traditions are included in the patterns.
+My digital drawings are inspired by the ornaments of different people of the world and patterns of floral elements of the _Art Nouveau_ era. 
 
 <div class="gallery-box">
   <div class="gallery">
