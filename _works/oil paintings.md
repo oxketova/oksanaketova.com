@@ -10,27 +10,54 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/mother.jpg" loading="lazy" alt="mother">
-    <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
-  </div>
-  <em>oil on canvas, 100x100cm</em>
-</div>
-
-
-> "There is in all things a pattern that is part of our universe..." - _Frank Herbert_
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/prince.jpg" loading="lazy" alt="prince">
-    <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
-    <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/mother.jpg" loading="lazy" alt="mother">
+      </div>
+      <div class="gallery-text">"Mother", oil on canvas, 100x100cm</div>
+    </div>
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
+      </div>
+      <div class="gallery-text">"Sisters", oil on canvas, 100x100cm</div>
+    </div>
   </div>
 </div>
 
+The ornament was one of the first ways of knowing the world for a person through art, an element of a magical ritual, fragments of history, nature, and traditions are included in the patterns.
+
 <div class="gallery-box">
   <div class="gallery">
-     <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
-    <img src="/images/melusina.jpg" loading="lazy" alt="melusina">
+  <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/prince.jpg" loading="lazy" alt="prince">
+      </div>
+      <div class="gallery-text">"Prince" oil on linen, 70x70cm</div>
+    </div>
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
+      </div>
+      <div class="gallery-text">"Wolf", oil on linen, 70x70cm</div>
+    </div>
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
+      </div>
+      <div class="gallery-text">"Petrosinella", oil on linen, 80x80cm</div>
+    </div>
+  </div>
+</div>
+    
+<div class="gallery-box">
+  <div class="gallery">
+     <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
+      </div>
+      <div class="gallery-text">"Rebel dream", oil on linen, 100x81cm</div>
+    </div>
   </div>
 </div>
 
