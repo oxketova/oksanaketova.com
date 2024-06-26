@@ -6,7 +6,7 @@ image: '/images/about-photo.jpg'
 image_caption: 'Me'
 ---
 
-Born 1987, Russia. Live and work in Lugano, Switzerland. 
+Born 1987, USSR. Live and work in Lugano, Switzerland. 
 
 While I possess a background in psychology, my recent years have been dedicated to honing my artistic practice, in which I'm delving deeply into the realms of psychoanalysis, cultural myths, fairy tales, and dreams.
 
