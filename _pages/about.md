@@ -6,13 +6,12 @@ image: '/images/about-photo.jpg'
 image_caption: 'Me'
 ---
 
-Born 1987, USSR. Live and work in Lugano, Switzerland. 
+Oksana is a self-taught artist who is improving her oil painting skills. Her journey through life has been a tapestry of diverse cultures and environments. Oksana was born in the USSR in 1987, grew up in Russia, and lived between Sicily and Norway before finally settling in Switzerland.
 
-While I possess a background in psychology, my recent years have been dedicated to honing my artistic practice, in which I'm delving deeply into the realms of psychoanalysis, cultural myths, fairy tales, and dreams.
+Her journey as an artist began during her stay in Norway, where she participated in charity and group exhibitions.
 
-As an immigrant, it remains paramount for me to engage with cultural identity, particularly the collective memory of the land I now call home. Myths and fairy tales offer profound insights into the psychological fabric of society at large.
-
-The ultimate aim of my artistic endeavors is to shed light upon the constraints of societal norms and expectations as experienced by individuals. By unraveling the pressing issues of our society through the prism of mythology and psychoanalysis, I strive to summon buried memories through a seamless blend of symbolism and surrealism. It is my aspiration to visually captivate viewers, prompting them to embark upon introspective journeys, drawing upon their own cognitive and emotional encounters. Through fostering constructive dialogues, my art serves as a conduit for exploring our complex relationship with ourselves and the ever-evolving world that surrounds us.
+Living among different cultures has enriched her perspective, imbuing her art with a unique blend of influences and insights. Sicily's historical depth, Norway's mystical landscapes, and Switzerland's serene beauty all find echoes in her creations, making her work a confluence of varied artistic traditions and personal experiences.
+An academic background in psychology has profoundly influenced her artistic practice. In her paintings mythological figures come to life, and dreamscapes unfold with a surreal elegance, inviting viewers into a dialogue with their own inner worlds. The use of diverse mediums and techniques allows me to experiment with form and texture, creating immersive experiences that resonate on both an emotional and intellectual level.
 
 
 Group exhebitions

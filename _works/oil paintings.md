@@ -22,6 +22,11 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
       </div>
       <div class="gallery-text">"Sisters", oil on canvas, 100x100cm</div>
     </div>
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/strong_woman.jpg" loading="lazy" alt="strong_woman">
+      </div>
+      <div class="gallery-text">"Strong woman", oil on canvas, 100x100cm</div>
   </div>
 </div>
 
@@ -54,11 +59,15 @@ The ornament was one of the first ways of knowing the world for a person through
   <div class="gallery">
      <div class="gallery-item">
       <div class="gallery-image">
-        <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
+        <img src="/images/rebel-drea.jpg" loading="lazy" alt="rebel-dream">
       </div>
-      <div class="gallery-text">"Rebel dream", oil on linen, 100x81cm</div>
+      <div class="gallery-text">"Rebel's dream", oil on linen, 100x81cm</div>
+    <div class="gallery-item">
+      <div class="gallery-image">
+        <img src="/images/ambivalence.jpg" loading="lazy" alt="ambivalence">
+      </div>
+      <div class="gallery-text">"Ambivalence", oil on linen, 100x100cm</div>
     </div>
   </div>
 </div>
-
 
