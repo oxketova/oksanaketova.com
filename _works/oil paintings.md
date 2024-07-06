@@ -59,9 +59,10 @@ The ornament was one of the first ways of knowing the world for a person through
   <div class="gallery">
      <div class="gallery-item">
       <div class="gallery-image">
-        <img src="/images/rebel-drea.jpg" loading="lazy" alt="rebel-dream">
+        <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
       </div>
       <div class="gallery-text">"Rebel's dream", oil on linen, 100x81cm</div>
+    </div> 
     <div class="gallery-item">
       <div class="gallery-image">
         <img src="/images/ambivalence.jpg" loading="lazy" alt="ambivalence">
