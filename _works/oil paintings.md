@@ -35,12 +35,6 @@ The ornament was one of the first ways of knowing the world for a person through
 
 <div class="gallery-box">
   <div class="gallery">
-  <div class="gallery-item">
-      <div class="gallery-image">
-        <img src="/images/melusina.jpg" loading="lazy" alt="melusina">
-      </div>
-      <div class="gallery-text">"Melusina" oil on linen 100x65cm</div>
-    </div>
     <div class="gallery-item">
       <div class="gallery-image">
         <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
@@ -60,7 +54,7 @@ In my paintings mythological figures come to life, and dreamscapes unfold with a
     
 <div class="gallery-box">
   <div class="gallery">
-     <div class="gallery-item">
+    <div class="gallery-item">
       <div class="gallery-image">
         <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
       </div>
