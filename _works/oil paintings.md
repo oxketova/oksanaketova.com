@@ -14,13 +14,13 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
       <div class="gallery-image">
         <img src="/images/mother.jpg" loading="lazy" alt="mother">
       </div>
-      <div class="gallery-text">"Mother", oil on canvas, 100x100cm</div>
+      <div class="gallery-text">"The Mother", oil on canvas, 100x100cm</div>
     </div>
     <div class="gallery-item">
       <div class="gallery-image">
         <img src="/images/sisters.jpg" loading="lazy" alt="sisters">
       </div>
-      <div class="gallery-text">"Sisters", oil on canvas, 100x100cm</div>
+      <div class="gallery-text">"The Sisters", oil on canvas, 100x100cm</div>
     </div>
     <div class="gallery-item">
       <div class="gallery-image">
@@ -46,6 +46,11 @@ The ornament was one of the first ways of knowing the world for a person through
         <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
       </div>
       <div class="gallery-text">"Petrosinella", oil on linen, 80x80cm</div>
+    </div>
+    <div class="gallery-image">
+        <img src="/images/sun.jpg" loading="lazy" alt="sun">
+      </div>
+      <div class="gallery-text">"The sun", oil on linen, 50x70cm</div>
     </div>
   </div>
 </div>
