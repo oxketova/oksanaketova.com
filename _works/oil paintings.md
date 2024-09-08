@@ -43,14 +43,14 @@ The ornament was one of the first ways of knowing the world for a person through
     </div>
     <div class="gallery-item">
       <div class="gallery-image">
-        <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
-      </div>
-      <div class="gallery-text">"Petrosinella", oil on linen, 80x80cm</div>
-    </div>
-    <div class="gallery-image">
         <img src="/images/sun.jpg" loading="lazy" alt="sun">
       </div>
       <div class="gallery-text">"The sun", oil on linen, 50x70cm</div>
+    </div>
+      <div class="gallery-image">
+        <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
+      </div>
+      <div class="gallery-text">"Petrosinella", oil on linen, 80x80cm</div>
     </div>
   </div>
 </div>
