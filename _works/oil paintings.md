@@ -56,9 +56,9 @@ In my paintings mythological figures come to life, and dreamscapes unfold with a
   <div class="gallery">
     <div class="gallery-item">
       <div class="gallery-image">
-        <img src="/images/rebel-dream.jpg" loading="lazy" alt="rebel-dream">
+        <img src="/images/trickster.jpg" loading="lazy" alt="trickster">
       </div>
-      <div class="gallery-text">"Rebel's dream", oil on linen, 81x100cm</div>
+      <div class="gallery-text">"Trickster", oil on linen, 90x90cm</div>
     </div> 
     <div class="gallery-item">
       <div class="gallery-image">

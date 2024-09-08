@@ -17,10 +17,12 @@ An academic background in psychology has profoundly influenced her artistic prac
 Group exhebitions
 
 2023 "Does size matter?" with Female artists Oslo, Norway
+2024 Helvet Art, Geneva, Switzerland
 
 Art auctions
 
 2023 at Beyond Art Oslo, Norway
+2024 at Beyond Art Oslo, Norway
 
 <!--
 <div class="gallery-box">
