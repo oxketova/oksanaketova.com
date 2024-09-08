@@ -14,12 +14,12 @@ Living among different cultures has enriched her perspective, imbuing her art wi
 An academic background in psychology has profoundly influenced her artistic practice. In her paintings mythological figures come to life, and dreamscapes unfold with a surreal elegance, inviting viewers into a dialogue with their own inner worlds. The use of diverse mediums and techniques allows me to experiment with form and texture, creating immersive experiences that resonate on both an emotional and intellectual level.
 
 
-Group exhebitions
+## Group exhebitions
 
-* 2023 "Does size matter?" with Female artists Oslo, Norway
+* 2023 _"Does size matter?"_ with Female artists Oslo, Norway
 * 2024 Helvet Art, Geneva, Switzerland
 
-Art auctions
+## Art auctions
 
 * 2023 at Beyond Art Oslo, Norway
 * 2024 at Beyond Art Oslo, Norway
