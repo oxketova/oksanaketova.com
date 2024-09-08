@@ -32,30 +32,6 @@ Drawing upon the insights of psychoanalysis and semiotics, I endeavor to forge v
 
 
 The ornament was one of the first ways of knowing the world for a person through art, an element of a magical ritual, fragments of history, nature, and traditions are included in the patterns.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <div class="gallery-item">
-      <div class="gallery-image">
-        <img src="/images/wolf.jpg" loading="lazy" alt="wolf">
-      </div>
-      <div class="gallery-text">"Wolf", oil on linen, 70x70cm</div>
-    </div>
-    <div class="gallery-item">
-      <div class="gallery-image">
-        <img src="/images/sun.jpg" loading="lazy" alt="sun">
-      </div>
-      <div class="gallery-text">"The sun", oil on linen, 50x70cm</div>
-    </div>
-      <div class="gallery-image">
-        <img src="/images/petrosinella.jpg" loading="lazy" alt="petrosinella">
-      </div>
-      <div class="gallery-text">"Petrosinella", oil on linen, 80x80cm</div>
-    </div>
-  </div>
-</div>
-
-In my paintings mythological figures come to life, and dreamscapes unfold with a surreal elegance, inviting viewers into a dialogue with their own inner worlds.
     
 <div class="gallery-box">
   <div class="gallery">
@@ -74,3 +50,4 @@ In my paintings mythological figures come to life, and dreamscapes unfold with a
   </div>
 </div>
 
+In my paintings mythological figures come to life, and dreamscapes unfold with a surreal elegance, inviting viewers into a dialogue with their own inner worlds.
